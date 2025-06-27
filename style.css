@@ -1,13 +1,13 @@
 body {
-    background-color: black;
-    color: purple;
+    background-color: plum;
+    color: white;
     font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;
     margin: 0;
     }
 
 header {
      font-size: 60px;
-    border-bottom: double 5px white;
+    border-bottom: double 5px purple;
      padding: 6px;
      text-align: center;
     }
