@@ -1,20 +1,20 @@
 body {
-    background-color: greenyellow;
-    color: purple;
+    background-color: black;
+    color: plum;
     font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;
     margin: 0;
     }
 
 header {
      font-size: 60px;
-    border-bottom: double 5px purple;
+    border-bottom: double 5px plum;
      padding: 6px;
      text-align: center;
     }
    
 h1 {
      font-size: 30px;
-     border-bottom: double 5px purple;
+     border-bottom: double 5px plum;
      text-align: center;
 }
 
